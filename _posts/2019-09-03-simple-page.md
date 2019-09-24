@@ -1,4 +1,4 @@
-## Simple page
+Simple page
 
 ```
 <!DOCTYPE html>
@@ -14,7 +14,9 @@
 </html>
 ```
 
----
+[Result](https://github.com/mariancross/html-css-tutorial/blob/3b91f5b2d13f37ca27eccca2a896a92b25d71a61/index.html)
+
+--
 
 Ordered list
 
@@ -26,6 +28,8 @@ Ordered list
   <li>Third item</li>
 </ol>
 ```
+
+[Result](hhttps://github.com/mariancross/html-css-tutorial/blob/f331c37965984ee3fe6fbbcb82bb16ce9d6d0a97/index.html)
 
 --
 
@@ -39,3 +43,5 @@ Unordered list
   <li>Third item</li>
 </ul>
 ```
+
+[Result](https://github.com/mariancross/html-css-tutorial/blob/d82e96f0f97c129ced321990fea7b336b469a341/index.html)
