@@ -1,11 +1,21 @@
-Sample properties
+Properties
 
-Colours: background-color, color
+```
+background-color
+```
 
-Font size: font-size
+```
+color
+```
 
-Text alignment: text-align
+```
+font-size
+```
 
-...
+```
+text-align
+```
 
-[CSS Reference](https://www.w3schools.com/cssref/)
+More properties...
+
+[CSS Properties](https://www.w3schools.com/cssref/)

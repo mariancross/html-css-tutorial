@@ -8,16 +8,17 @@ body {
   color: white;
 }
 ```
+
 --
 
 id rule is applied to a single tag
 
 ```
-
-```
 #blue_text {
   color: blue;
 }
+```
+
 ```
 <h1 id="blue_text">Main Title</h1>
 ```
@@ -38,3 +39,9 @@ class rule is applied to one or more tags
 <p>This text has the default style</p>
 <p class="shiny_text">This text also has the new style</p>
 ```
+
+--
+
+More selectors...
+
+[CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp)
