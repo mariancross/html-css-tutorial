@@ -19,7 +19,7 @@ Adding CSS rules in HTML file
 </style>
 ```
 
-[Link to result](https://github.com/mariancross/html-css-tutorial/blob/a747f9569a0c94b5a5e4fd6e9e47635ccb3b21ad/page_with_css.html)
+[HTML](https://github.com/mariancross/html-css-tutorial/blob/a747f9569a0c94b5a5e4fd6e9e47635ccb3b21ad/page_with_css.html)
 
 --
 
@@ -48,4 +48,4 @@ and import that file in HTML file
 <link rel="stylesheet" href="layout.css">
 ```
 
-[Link to result](https://github.com/mariancross/html-css-tutorial/blob/ca352ab6b1731b7af435a1324175c539dfec5e58/page_with_css.html)
+[HTML](https://github.com/mariancross/html-css-tutorial/blob/ca352ab6b1731b7af435a1324175c539dfec5e58/page_with_css.html), [CSS](https://github.com/mariancross/html-css-tutorial/blob/ca352ab6b1731b7af435a1324175c539dfec5e58/layout.css)

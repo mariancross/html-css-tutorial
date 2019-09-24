@@ -23,6 +23,8 @@ id rule is applied to a single tag
 <h1 id="blue_text">Main Title</h1>
 ```
 
+[HTML](https://github.com/mariancross/html-css-tutorial/blob/dc34b8efa173ed56bd27f57c0820715d8da09679/page_with_css.html), [CSS](https://github.com/mariancross/html-css-tutorial/blob/dc34b8efa173ed56bd27f57c0820715d8da09679/layout.css)
+
 --
 
 class rule is applied to one or more tags
@@ -40,6 +42,12 @@ class rule is applied to one or more tags
 <p class="shiny_text">This text also has the new style</p>
 ```
 
+[HTML](https://github.com/mariancross/html-css-tutorial/blob/6dd855f387469aab6f82218e24ac322f048b6f58/page_with_css.html), [CSS](https://github.com/mariancross/html-css-tutorial/blob/6dd855f387469aab6f82218e24ac322f048b6f58/layout.css)
+
+
+
 --
 
-More [CSS Selectors...](https://www.w3schools.com/cssref/css_selectors.asp){:target="_blank"}
+More...
+
+[CSS Selectors...](https://www.w3schools.com/cssref/css_selectors.asp)

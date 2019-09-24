@@ -1,19 +1,25 @@
-Some properties
+Some properties and values:
 
 ```
-background-color
-```
-
-```
-color
+background-color: #00008B;
 ```
 
 ```
-font-size
+color: red;
 ```
 
 ```
-text-align
+font-size: 15px;
 ```
 
-More [CSS Properties...](https://www.w3schools.com/cssref/){:target="_blank"}
+```
+text-align: justify;
+```
+
+More...
+
+[CSS Properties](https://www.w3schools.com/cssref/)
+[CSS Units](https://www.w3schools.com/cssref/css_units.asp)
+[CSS Colours](https://www.w3schools.com/cssref/css_colors.asp)
+
+[Color Picker](https://htmlcolorcodes.com/)
