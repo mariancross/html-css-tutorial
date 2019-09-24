@@ -8,14 +8,10 @@ JavaScript (JS) enables interactive web pages
 
 --
 
-JavaScript code must be inserted between the tags:
+JavaScript code can be added in:
 
-```
-<script></script>
-```
++ head section
++ or body section
++ or as external file
 
---
-
-JavaScript code can be added in the <head> or <body> sections or it can be added as an external file as shown in:
-
-[JavaScript Where To](https://www.w3schools.com/js/js_whereto.asp)
+As shown in: [JavaScript Where To](https://www.w3schools.com/js/js_whereto.asp)
