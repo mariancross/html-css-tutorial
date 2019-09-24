@@ -8,7 +8,7 @@ description: Tutorial Part 1 for Interactive Media Design and Production
 author: Maria Santamaria
 
 # The Reveal theme
-reveal_theme: black.css
+reveal_theme: solarized.css
 
 # The Reveal transition
 reveal_transition: default
