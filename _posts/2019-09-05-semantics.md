@@ -53,7 +53,6 @@ Time
 
 Images
 
-
 ```
 <figure id="fig1">
   <dd>
@@ -64,3 +63,37 @@ Images
 ```
 
 [Link to result](https://github.com/mariancross/html-css-tutorial/blob/88dbbf9c4984bb133b608dce83a279fe0d9266d1/index.html)
+
+--
+
+Navigation
+
+```
+<nav id="mainNav">
+  <ul>
+    <li><a href="about.html">About</a></li> <li><a href="services.html">Services</a></li>
+    <li><a href="contact.html">Contact</a></li>
+    <li><a href="index.html">Home</a></li>
+  </ul>
+</nav>
+```
+
+[Link to result](https://github.com/mariancross/html-css-tutorial/blob/05da6603bf338d3bdb5a4763d276eae6033cf159/index.html)
+
+--
+
+Video
+
+```
+<video width="400" controls>
+  <source src="https://storage.googleapis.com/coverr-main/mp4%2FBesty.mp4" type="video/mp4" />
+</video>
+```
+
+[Link to result](https://github.com/mariancross/html-css-tutorial/blob/4f1a5df6ffa304ff4e88e41851122f68890890ec/index.html)
+
+--
+
+Other elements
+
+audio, auto complete list, progress bars...
