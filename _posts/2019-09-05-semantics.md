@@ -27,3 +27,40 @@ Semantic element
 ```
 <form>
 ```
+
+--
+
+Highlighting
+
+```
+<mark>Let us highlight this text</mark>
+```
+
+[Link to result](https://github.com/mariancross/html-css-tutorial/blob/9ff0b45d4cd89d4b0d1dd23fc348029c5dc33c58/index.html)
+
+--
+
+Time
+
+```
+<p>We open at <time>10:00</time> every morning.</p>
+<p>An interesting date/time for SciFi buffs is <time>1999-09-13T09:15:00 </time>!</p>
+```
+
+[Link to result](https://github.com/mariancross/html-css-tutorial/blob/536158b951eee6fa1aef5af49d914d71fc2dbdeb/index.html)
+
+--
+
+Images
+
+
+```
+<figure id="fig1">
+  <dd>
+    <img src="http://eecs.qmul.ac.uk/media/eecs/uploads/homepage-spotlight-image/facebook_header.png" alt="QMUL" /> 
+  </dd>
+  <dt>Figure Ex-1</dt>
+</figure>
+```
+
+[Link to result](https://github.com/mariancross/html-css-tutorial/blob/88dbbf9c4984bb133b608dce83a279fe0d9266d1/index.html)
