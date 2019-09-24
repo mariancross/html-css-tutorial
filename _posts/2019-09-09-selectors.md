@@ -35,13 +35,11 @@ class rule is applied to one or more tags
 ```
 
 ```
-<p class="shiny_text">This is the first text</p>
+<h2 class="shiny_text">Subtitle</p>
 <p>This text has the default style</p>
 <p class="shiny_text">This text also has the new style</p>
 ```
 
 --
 
-More selectors...
-
-[CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp)
+More [CSS Selectors...](https://www.w3schools.com/cssref/css_selectors.asp){:target="_blank"}
