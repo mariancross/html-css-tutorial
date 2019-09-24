@@ -18,3 +18,8 @@ h1 {
 #blue_text {
   color: blue;
 }
+
+.shiny_text {
+  color: greenyellow;
+  font: italic;
+}
