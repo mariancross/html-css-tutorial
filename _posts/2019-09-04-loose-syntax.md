@@ -23,3 +23,9 @@ However, HTML5 allows for the syntax variability
 </ul>
 <p>Yes, it looks that way
 ```
+
+[Link to result](https://github.com/mariancross/html-css-tutorial/blob/f331c37965984ee3fe6fbbcb82bb16ce9d6d0a97/index.html)
+
+--
+
+Good practice: avoid relying on loose syntax

@@ -14,7 +14,7 @@ Simple page
 </html>
 ```
 
-[Result](https://github.com/mariancross/html-css-tutorial/blob/3b91f5b2d13f37ca27eccca2a896a92b25d71a61/index.html)
+[Link to result](https://github.com/mariancross/html-css-tutorial/blob/3b91f5b2d13f37ca27eccca2a896a92b25d71a61/index.html)
 
 --
 
@@ -29,7 +29,7 @@ Ordered list
 </ol>
 ```
 
-[Result](hhttps://github.com/mariancross/html-css-tutorial/blob/f331c37965984ee3fe6fbbcb82bb16ce9d6d0a97/index.html)
+[Link to result](https://github.com/mariancross/html-css-tutorial/blob/f331c37965984ee3fe6fbbcb82bb16ce9d6d0a97/index.html)
 
 --
 
@@ -44,4 +44,4 @@ Unordered list
 </ul>
 ```
 
-[Result](https://github.com/mariancross/html-css-tutorial/blob/d82e96f0f97c129ced321990fea7b336b469a341/index.html)
+[Link to result](https://github.com/mariancross/html-css-tutorial/blob/d82e96f0f97c129ced321990fea7b336b469a341/index.html)
