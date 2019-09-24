@@ -18,6 +18,7 @@
 
 ## Ordered list
 
+```
 <!DOCTYPE html>
 <html>
   <head>
@@ -38,6 +39,7 @@
 
 ## Unordered list
 
+```
 <!DOCTYPE html>
 <html>
   <head>
