@@ -8,7 +8,11 @@ JavaScript (JS) enables interactive web pages
 
 --
 
-JavaScript code must be inserted between <script> and </script> tags:
+JavaScript code must be inserted between the tags:
+
+```
+<script></script>
+```
 
 --
 
