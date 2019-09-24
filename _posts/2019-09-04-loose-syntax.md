@@ -24,7 +24,7 @@ However, HTML5 allows for the syntax variability
 <p>Yes, it looks that way
 ```
 
-[Link to result](https://github.com/mariancross/html-css-tutorial/blob/f331c37965984ee3fe6fbbcb82bb16ce9d6d0a97/index.html)
+[Link to result](https://github.com/mariancross/html-css-tutorial/blob/cb5c5543627806d4bac5ebefc8c6f331639f0cc1/loose_syntax.html)
 
 --
 
