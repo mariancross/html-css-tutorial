@@ -4,8 +4,6 @@ A semantic element clearly describes its meaning to both the browser and the dev
 
 ![QMUL logo](https://www.w3schools.com/html/img_sem_elements.gif)
 
-[WordPress theme Twenty Twelve](https://twentytwelvedemo.wordpress.com/blog/)
-
 --
 
 Non-semantic element
@@ -58,7 +56,7 @@ Images
 ```
 <figure id="fig1">
   <dd>
-    <img src="http://eecs.qmul.ac.uk/media/eecs/uploads/homepage-spotlight-image/facebook_header.png" alt="QMUL" /> 
+    <img src="http://eecs.qmul.ac.uk/media/eecs/uploads/homepage-spotlight-image/facebook_header.png" alt="QMUL" />
   </dd>
   <dt>Figure Ex-1</dt>
 </figure>
@@ -93,6 +91,12 @@ Video
 ```
 
 [Source code](https://github.com/mariancross/html-css-tutorial/blob/4f1a5df6ffa304ff4e88e41851122f68890890ec/index.html)
+
+--
+
+Example:
+
+[WordPress theme Twenty Twelve](https://twentytwelvedemo.wordpress.com/blog/)
 
 --
 
