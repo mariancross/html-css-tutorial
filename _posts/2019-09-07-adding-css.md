@@ -1,16 +1,16 @@
 Adding CSS rules in HTML file
 
 ```
-<style type="text/css"> 
+<style type="text/css">
   body {
     background-color: black;
     color: white;
   }
   h1 {
-    color: red; 
+    color: red;
     font-size: xx-large;
     text-align: center;
-  }  
+  }
   .fancy {
     background-color: orange;
     color: black;
@@ -31,7 +31,7 @@ body {
   color: white;
 }
 h1 {
-  color: red; 
+  color: red;
   font-size: xx-large;
   text-align: center;
 }
