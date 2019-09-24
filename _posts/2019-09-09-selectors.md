@@ -37,7 +37,7 @@ class rule is applied to one or more tags
 ```
 
 ```
-<h2 class="shiny_text">Subtitle</p>
+<h2 class="shiny_text">Subtitle</h2>
 <p>This text has the default style</p>
 <p class="shiny_text">This text also has the new style</p>
 ```
