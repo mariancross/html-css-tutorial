@@ -44,8 +44,6 @@ class rule is applied to one or more tags
 
 [HTML](https://github.com/mariancross/html-css-tutorial/blob/6dd855f387469aab6f82218e24ac322f048b6f58/page_with_css.html), [CSS](https://github.com/mariancross/html-css-tutorial/blob/6dd855f387469aab6f82218e24ac322f048b6f58/layout.css)
 
-
-
 --
 
 More...
