@@ -16,42 +16,26 @@
 
 ---
 
-## Ordered list
+Ordered list
 
 ```
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Ordered list</title>
-  </head>
-  <body>
-    <ol>
-     <li>First item</li>
-     <li>Second item</li>
-     <li>Third item</li>
-    </ol>
-  </body>
-</html>
+<p>This is an ordered list</p>
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+</ol>
 ```
 
 --
 
-## Unordered list
+Unordered list
 
 ```
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Unordered list</title>
-  </head>
-  <body>
-    <ul>
-     <li>First item</li>
-     <li>Second item</li>
-     <li>Third item</li>
-    </ul>
-  </body>
-</html>
+<p>This is an unordered list</p>
+<ul>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+</ul>
 ```
