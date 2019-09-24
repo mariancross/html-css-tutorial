@@ -6,13 +6,11 @@ Adding CSS rules in HTML file
     background-color: black;
     color: white;
   }
-
   h1 {
     color: red; 
     font-size: xx-large;
     text-align: center;
-  }
-  
+  }  
   .fancy {
     background-color: orange;
     color: black;
@@ -28,22 +26,20 @@ Adding CSS rules in HTML file
 Adding CSS rules in a .css file
 
 ```
-  body {
-    background-color: black;
-    color: white;
-  }
-
-  h1 {
-    color: red; 
-    font-size: xx-large;
-    text-align: center;
-  }
-  
-  .fancy {
-    background-color: orange;
-    color: black;
-    font-weight: bold;
-  }
+body {
+  background-color: black;
+  color: white;
+}
+h1 {
+  color: red; 
+  font-size: xx-large;
+  text-align: center;
+}
+.fancy {
+  background-color: orange;
+  color: black;
+  font-weight: bold;
+}
 ```
 
 and import that file in HTML file
