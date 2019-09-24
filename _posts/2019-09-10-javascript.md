@@ -8,10 +8,4 @@ JavaScript (JS) enables interactive web pages
 
 --
 
-JavaScript code can be added in:
-
-+ head section
-+ or body section
-+ or as external file
-
-As shown in: [JavaScript Where To](https://www.w3schools.com/js/js_whereto.asp)
+[JavaScript Where To](https://www.w3schools.com/js/js_whereto.asp)
