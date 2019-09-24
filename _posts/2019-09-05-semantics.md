@@ -4,6 +4,8 @@ A semantic element clearly describes its meaning to both the browser and the dev
 
 ![QMUL logo](https://www.w3schools.com/html/img_sem_elements.gif)
 
+[WordPress theme Twenty Twelve](https://twentytwelvedemo.wordpress.com/blog/)
+
 --
 
 Non-semantic element
